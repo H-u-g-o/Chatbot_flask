@@ -4,5 +4,4 @@ gunicorn
 itsdangerous
 Jinja2
 MarkupSafe
-pkg-resources
 Werkzeug
